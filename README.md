@@ -25,4 +25,16 @@ Decidi colocar esse trecho de código em um visualizador SVG para ver como realm
 </svg>
 
 ```
-Resultado no CodePen:
+## Resultado no CodePen:
+<div align="center">
+  <img src="lupa.png" alt="Imagem da Lupa" />
+</div>
+
+---
+
+Ao ver o resultado, tudo começou a fazer mais sentido. Cada trecho de número e letra no `d` define uma linha ou uma curva para formar o ícone. Foi interessante entender como SVGs funcionam e ver como são usados para criar ícones escaláveis que se adaptam a qualquer resolução.
+
+>[!CAUTION] 
+>Meu foco sempre foi mais no backend, mas eu constantemente tento aprimorar meu conhecimento em frontend também. Eu nunca tinha ouvido falar de SVGs nesse nível de detalhe, e essa descoberta foi útil para ampliar meu entendimento. Afinal, mesmo como desenvolvedor backend, acho importante saber como essas tecnologias funcionam, especialmente quando elas afetam diretamente a apresentação final de um site ou aplicação.
+
+Essa experiência me mostrou como o frontend pode ter detalhes complexos e interessantes, que vão além do básico de HTML e CSS. SVGs são uma ferramenta poderosa e saber como usá-los bem pode dar um toque mais profissional e responsivo para as interfaces.
